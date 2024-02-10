@@ -1,6 +1,6 @@
-package io.github.Louw123.test.mixin;
+package io.github.Louw123.mixin;
 
-import io.github.Louw123.test.test;
+import io.github.Louw123.test;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

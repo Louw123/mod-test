@@ -1,4 +1,4 @@
-package io.github.Louw123.test;
+package io.github.Louw123;
 
 import org.quiltmc.loader.api.ModContainer;
 import org.quiltmc.qsl.base.api.entrypoint.ModInitializer;
